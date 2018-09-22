@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://anovacreative.com/index.html" resolutions="1x,2x" timestamp="1537584323693">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://anovacreative.com/index.html" resolutions="1x,2x" timestamp="1537634600958">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="91443383" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4218092864" ref="index"/>
-    <file name="index.css" crc="4161807173" ref="index"/>
-    <file name="nomq_index.css" crc="4080557028" ref="index"/>
+    <file name="master_a-master.css" crc="156428452" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="30868424" ref="index"/>
+    <file name="index.css" crc="3965451434" ref="index"/>
+    <file name="nomq_index.css" crc="199706076" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,10 +18,6 @@
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="form_check.php" crc="4020933626" ref="index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="index"/>
-    <file name="form_process.php" crc="37464564" ref="index"/>
-    <file name="form-u1673.php" crc="4085278450" ref="index"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
@@ -29,16 +25,14 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="anova logo trial-crop-u3089.png" crc="103235115" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="anova logo trial-crop-u3089.png" crc="3773264093" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="anova logo trial-crop-u3089_2x.png" crc="3992204517" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="anova logo trial-crop-u3089_2x.png" crc="193148828" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -158,8 +152,8 @@
     <file name="officeview_2x.jpg" crc="60849723" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u7979-4.png" crc="4189012263" ref="index"/>
-    <file name="u7979-4_2x.png" crc="4064797994" ref="index"/>
+    <file name="u7979-4.png" crc="4101988155" ref="index"/>
+    <file name="u7979-4_2x.png" crc="85520501" ref="index"/>
     <file name="1print (1 of 1)-crop-u2042.jpg" crc="3964490499" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -368,12 +362,12 @@
     <file name="u6930-4_2x.png" crc="4097805377" ref="index"/>
     <file name="u7035-4.png" crc="461931844" ref="index"/>
     <file name="u7035-4_2x.png" crc="206450006" ref="index"/>
-    <file name="u7106-4.png" crc="392958515" ref="index"/>
-    <file name="u7106-4_2x.png" crc="4241711375" ref="index"/>
-    <file name="u7180-4.png" crc="437789402" ref="index"/>
-    <file name="u7180-4_2x.png" crc="4037776314" ref="index"/>
-    <file name="u7250-4.png" crc="355430832" ref="index"/>
-    <file name="u7250-4_2x.png" crc="104059023" ref="index"/>
+    <file name="u7106-4.png" crc="499319175" ref="index"/>
+    <file name="u7106-4_2x.png" crc="3880079674" ref="index"/>
+    <file name="u7180-4.png" crc="3758714500" ref="index"/>
+    <file name="u7180-4_2x.png" crc="501299159" ref="index"/>
+    <file name="u7250-4.png" crc="352881989" ref="index"/>
+    <file name="u7250-4_2x.png" crc="4195403624" ref="index"/>
     <file name="1print (1 of 1)-crop-u2044.jpg" crc="3964490499" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -505,10 +499,8 @@
     </file>
     <file name="portfolio-6154x96.jpg" crc="4122244811" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="portfolio-6154x96_2x.jpg" crc="3767301422" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="portfolio-2-crop-u8905.jpg" crc="532780616" seo="true" ref="index">
@@ -535,148 +527,112 @@
     <file name="portfolio-8-crop-u1076_2x5.jpg" crc="262569671" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-1-crop-u653.jpg" crc="4013698055" seo="true" ref="index">
+    <file name="portfolio-1-crop-u653.jpg" crc="3814122537" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-1-crop-u653_2x.jpg" crc="187006647" seo="true" ref="index">
+    <file name="portfolio-1-crop-u653_2x.jpg" crc="124924547" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-2-crop-u8812.jpg" crc="3998109816" seo="true" ref="index">
+    <file name="portfolio-2-crop-u8812.jpg" crc="133142270" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-2-crop-u881_2x2.jpg" crc="99398984" seo="true" ref="index">
+    <file name="portfolio-2-crop-u881_2x2.jpg" crc="4272621581" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-5116x73.jpg" crc="110836786" seo="true" ref="index">
+    <file name="portfolio-4-crop-u9432.jpg" crc="518660563" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-5116x73_2x.jpg" crc="4722282" seo="true" ref="index">
+    <file name="portfolio-4-crop-u943_2x2.jpg" crc="3805919197" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-4-crop-u9432.jpg" crc="464979630" seo="true" ref="index">
+    <file name="portfolio-4-crop-u9742.jpg" crc="3774047995" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-4-crop-u943_2x2.jpg" crc="4233778716" seo="true" ref="index">
+    <file name="portfolio-4-crop-u974_2x2.jpg" crc="3775722480" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-4-crop-u9742.jpg" crc="125217792" seo="true" ref="index">
+    <file name="portfolio-3-crop-u10052.jpg" crc="133223155" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-4-crop-u974_2x2.jpg" crc="4000709905" seo="true" ref="index">
+    <file name="portfolio-3-crop-u1005_2x2.jpg" crc="277482960" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-3-crop-u10052.jpg" crc="195680831" seo="true" ref="index">
+    <file name="portfolio-6-crop-u1036.jpg" crc="396073251" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-3-crop-u1005_2x2.jpg" crc="3796673930" seo="true" ref="index">
+    <file name="portfolio-6-crop-u1036_2x.jpg" crc="25065924" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-6-crop-u1036.jpg" crc="241039947" seo="true" ref="index">
+    <file name="portfolio-8-crop-u10672.jpg" crc="3900023779" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-6-crop-u1036_2x.jpg" crc="4230736812" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-8-crop-u10672.jpg" crc="3664021" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="officeview-u1148-fr3.jpg" crc="4081340376" ref="index"/>
-    <file name="officeview-u1148-fr_2x3.jpg" crc="265515812" ref="index"/>
-    <file name="1print (1 of 1)-crop-u2046.jpg" crc="3964490499" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1print (1 of 1)-crop-u204_2x6.jpg" crc="3963759132" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-1-crop-u6646.jpg" crc="296950097" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-1-crop-u664_2x6.jpg" crc="3761671817" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-5-crop-u9215.jpg" crc="435439412" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-5-crop-u921_2x5.jpg" crc="290381357" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-4-crop-u9836.jpg" crc="278970764" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-4-crop-u983_2x6.jpg" crc="522635774" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-2-crop-u8906.jpg" crc="532780616" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-2-crop-u890_2x6.jpg" crc="457922901" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-4-crop-u9526.jpg" crc="3862401085" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-4-crop-u952_2x6.jpg" crc="340912252" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-3-crop-u10146.jpg" crc="162346178" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-3-crop-u1014_2x6.jpg" crc="121230016" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-8-crop-u10766.jpg" crc="391698768" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-8-crop-u1076_2x6.jpg" crc="262569671" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-1-crop-u6532.jpg" crc="3814122537" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-1-crop-u653_2x2.jpg" crc="124924547" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-2-crop-u8813.jpg" crc="133142270" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portfolio-2-crop-u881_2x3.jpg" crc="4272621581" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="officeview-u1148-fr3.jpg" crc="177682294" ref="index"/>
+    <file name="officeview-u1148-fr_2x3.jpg" crc="4008803033" ref="index"/>
     <file name="portfolio-5120x75.jpg" crc="4269200462" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="portfolio-5120x75_2x.jpg" crc="116454734" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-4-crop-u9433.jpg" crc="518660563" seo="true" ref="index">
+    <file name="icon_insta82x68.png" crc="527521090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-4-crop-u943_2x3.jpg" crc="3805919197" seo="true" ref="index">
+    <file name="icon_linkedin82x68.png" crc="4200612723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-4-crop-u9743.jpg" crc="3774047995" seo="true" ref="index">
+    <file name="icon_yt82x68.png" crc="40503584" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-4-crop-u974_2x3.jpg" crc="3775722480" seo="true" ref="index">
+    <file name="jg logo122x34.png" crc="160003878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-3-crop-u10053.jpg" crc="133223155" seo="true" ref="index">
+    <file name="jg logo122x34_2x.png" crc="4293546040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-3-crop-u1005_2x3.jpg" crc="277482960" seo="true" ref="index">
+    <file name="icon_yt.png" crc="3911445163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-6-crop-u10362.jpg" crc="63167630" seo="true" ref="index">
+    <file name="icon_insta.png" crc="4033584351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-6-crop-u1036_2x2.jpg" crc="364956500" seo="true" ref="index">
+    <file name="icon_linkedin.png" crc="526085007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio-8-crop-u10673.jpg" crc="3900023779" seo="true" ref="index">
+    <file name="jg logo106x30.png" crc="98043155" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="officeview-u1148-fr4.jpg" crc="177682294" ref="index"/>
-    <file name="officeview-u1148-fr_2x4.jpg" crc="4008803033" ref="index"/>
+    <file name="jg logo106x30_2x.png" crc="4293546040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jg logo116x32.png" crc="414679767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jg logo116x32_2x.png" crc="4293546040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_insta73x60.png" crc="289119383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_linkedin74x60.png" crc="63991901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_yt73x60.png" crc="312143650" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jg logo114x32.png" crc="4028215687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jg logo114x32_2x.png" crc="4293546040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="231093012" seo="true" mt="1537584224151" redirect="true"/>
+  <file name="index.html" crc="371386590" seo="true" mt="1537634552987" redirect="true"/>
 </manifest>
