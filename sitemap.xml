@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://anovacreative.com/index.html/index.html</loc>
-    <lastmod>2018-09-22</lastmod>
+    <lastmod>2018-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -516,12 +516,6 @@
       <image:loc>https://anovacreative.com/index.html/images/icon_yt82x68.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://anovacreative.com/index.html/images/jg%20logo122x34.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://anovacreative.com/index.html/images/jg%20logo122x34_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://anovacreative.com/index.html/images/icon_yt.png</image:loc>
     </image:image>
     <image:image>
@@ -529,12 +523,6 @@
     </image:image>
     <image:image>
       <image:loc>https://anovacreative.com/index.html/images/icon_linkedin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://anovacreative.com/index.html/images/jg%20logo106x30.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://anovacreative.com/index.html/images/jg%20logo106x30_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://anovacreative.com/index.html/images/jg%20logo116x32.png</image:loc>
@@ -556,6 +544,72 @@
     </image:image>
     <image:image>
       <image:loc>https://anovacreative.com/index.html/images/jg%20logo114x32_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/jg%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/jg%20logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/jg%20logo119x33.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/jg%20logo119x33_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/jg%20logo96x27.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/jg%20logo96x27_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/1print%20(1%20of%201)-crop-u2046.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/1print%20(1%20of%201)-crop-u204_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-1-crop-u6646.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-1-crop-u664_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-5-crop-u9215.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-5-crop-u921_2x5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-4-crop-u9836.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-4-crop-u983_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-2-crop-u8906.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-2-crop-u890_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-4-crop-u9526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-4-crop-u952_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-3-crop-u10146.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-3-crop-u1014_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-8-crop-u10766.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://anovacreative.com/index.html/images/portfolio-8-crop-u1076_2x6.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
