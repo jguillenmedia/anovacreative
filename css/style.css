@@ -2,7 +2,39 @@
 
 
 
-/* Round social media Icons */
+.container-full {
+
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+
+}
+
+
+/* Hero Image*/
+.hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("../img/team2.png");
+
+    /* Set a specific height */
+    height: 100%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position:center
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+.hero-image h1{
+  text-align: center;
+  position: relative;
+
+  top: 15rem;
+
+  color: white;
+
+}
 .nav-color{
   color: #556168;
 }
@@ -13,8 +45,13 @@
 }
 .titlepadding{
   padding-top: 4em;
-  padding: 0px;
+
   margin-top:15rem;
+
+}
+.lowerpadding{
+
+  padding:4em;
 
 }
 .parpadding{
@@ -22,24 +59,29 @@
   margin-right: 10em;
   letter-spacing: 1px;
 
+}
+.sentencepadding{
 
+  max-width: 700px;
 }
 .social a{
-    padding: 1rem;
+    padding: 1.5rem;
     font-size: 4.5em;
     width: 60px;
     text-align: center;
     text-decoration: none;
     color: #ffffff;
 }
+.uppercase{
+  text-transform: uppercase;
 
+}
 .wall{
 
   background-size: cover;
   background-color: #5BB88C;
-  padding-top: 90px
-
-
+  padding-top: 90px;
+  padding-bottom:: 90px;
 }
 .white-text{
   color:#ffffff;
@@ -101,6 +143,12 @@ body {
   font-family:varela-round, sans-serif;
   color:#000000;
   }
+body, html {
+    height: 100%;
+
+    margin: 0;
+
+}
 footer{
   font-family: 'Questrial', sans-serif;
 
@@ -121,7 +169,7 @@ p{
 figure {
   position: relative;
   width: 100%;
-  height: 60%;
+  height: 100%;
   margin: 0!important;
 }
 .fixed-wrap {
@@ -132,20 +180,36 @@ figure {
   width: 100%;
   height: 100%;
 }
-#fixed {
+/* parallax*/
+#plx{
   background-image: url('../img/officeview_2x.jpg');
-  position: fixed;
-  display: block;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
-  -webkit-transform: translateZ(0);
-          transform: translateZ(0);
-  will-change: transform;
 }
+.white-title{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color:#ffffff;
+  letter-spacing: 3px;
+}
+.whtitle{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  letter-spacing: 3px;
+
+}
+
+#bluewall{
+
+  background-size: cover;
+  height: 400px;
+  background-color: #5BB88C;
+
+}
+
+
 /*--- Bootstrap Padding Fix --*/
 [class*="col-"] {
     padding: 1rem;
