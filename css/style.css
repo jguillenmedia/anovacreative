@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+
+.container-full {
+
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+
+
+}
+
+
+/* Hero Image*/
+.hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("../img/team2.png");
+
+    /* Set a specific height */
+    height: 100%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position:center
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+.hero-image h1{
+  text-align: center;
+  position: relative;
+
+  top: 15rem;
+
+  color: white;
+
+}
+.navbar{
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+.nav-color{
+  color: #556168;
+}
+.navbar-nav{
+  letter-spacing: 3px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.titlepadding{
+  padding-top: 4em;
+
+  margin-top:15rem;
+
+}
+.lowerpadding{
+
+  padding:4em;
+
+}
+.parpadding{
+  margin-left:10em;
+  margin-right: 10em;
+  letter-spacing: 1px;
+
+}
+.sentencepadding{
+
+  max-width: 700px;
+}
+.social a{
+    padding: 1.5rem;
+    font-size: 4.5em;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+.darkicon a{
+    padding: 1.5rem;
+    font-size: 2.5em;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    color: #717782;
+}
+
+.uppercase{
+  text-transform: uppercase;
+
+}
+.wall{
+
+  background-size: cover;
+  background-color: #5BB88C;
+  padding-top: 90px;
+  padding-bottom:: 90px;
+}
+.white-text{
+  color:#ffffff;
+  letter-spacing: 3px;
+}
+.light-text{
+  color: #8e8e8e;
+}
+.avatar {
+    width: 30%;
+    margin: 5rem;
+    padding:3rem;
+    border-radius: 50%;
+
+}
+
+.navbar-brand img{
+   width: auto;
+   height: 140px;
+
+
+}
+
+
+
+
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+
+  }
+@media (max-width: 768px) {
+  .titlepadding{
+    padding-top: 4em;
+    padding: 0px;
+    margin-top:10rem;
+
+  }
+
+}
+@media (max-width: 576px) {
+  .titlepadding{
+    padding-top: 4em;
+    padding: 0px;
+    margin-top:5rem;
+
+  }
+
+}
+head {
+font-family:varela-round, sans-serif
+text-align:center;
+
+}
+
+
+body {
+
+  font-family:varela-round, sans-serif;
+  color:#000000;
+  }
+body, html {
+    height: 100%;
+
+    margin: 0;
+
+}
+footer{
+  font-family: 'Questrial', sans-serif;
+
+}
+p{
+  font-family: 'Questrial', sans-serif;
+}
+
+/*---Firefox Bug Fix --*/
+.carousel-item {
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+/*--- Fixed Background Image --*/
+figure {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0!important;
+}
+.fixed-wrap {
+  clip: rect(0, auto, auto, 0);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+/* parallax*/
+#plx{
+  background-image: url('../img/officeview_2x.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.white-title{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color:#ffffff;
+  letter-spacing: 3px;
+}
+.whtitle{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  letter-spacing: 3px;
+
+}
+
+#bluewall{
+
+  background-size: cover;
+  height: 400px;
+  background-color: #5BB88C;
+
+}
+
+
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
+}
+
+
+
+
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/
