@@ -32,6 +32,7 @@
 
   top: 15rem;
 
+
   color: white;
 
 }
@@ -41,6 +42,7 @@
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
+
 }
 .nav-color{
   color: #556168;
@@ -50,12 +52,14 @@
   margin-left: 30px;
   margin-right: 30px;
 }
+
 .titlepadding{
   padding-top: 4em;
 
-  margin-top:15rem;
+  margin-top:10rem;
 
 }
+
 .lowerpadding{
 
   padding:4em;
@@ -142,7 +146,7 @@
   .titlepadding{
     padding-top: 4em;
     padding: 0px;
-    margin-top:5rem;
+    margin-top:10rem;
 
   }
 
