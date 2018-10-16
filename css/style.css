@@ -171,6 +171,10 @@ body, html {
 }
 footer{
   font-family: 'Questrial', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
 
 }
 p{
