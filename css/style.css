@@ -24,26 +24,79 @@
     transform: translateX(-50%) translateY(-20%);
     background: url(../img/website header.jpg) no-repeat;
     background-size: cover;
+
 }
 .container h1 {
     color: white;
 }
 
 
-/* Hero Image*/
-.hero-image {
+/*Video wall */
+header {
+  position: relative;
+
+  height: 95vh;
+  min-height: 45rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.0;
+  z-index: 1;
+}
+
+@media (pointer: coarse) and (hover: none) {
+  header {
+    background:  "./img/website header.jpg" black no-repeat center center scroll;
+  }
+  header video {
+    display: none;
+  }
+}
+
+/* Hero Image
+.hero-image {*/
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   /*  background-image: linear-gradient(rgba(0, 0, 0.7, 0.2), rgba(0, 1, 0, 0.3)), url("../img/team2.png");
 
-    /* Set a specific height */
-    height: 90%;
+    /* Set a specific height
+    height: 90%;*/
 
-    /* Position and center the image to scale nicely on all screens */
+    /* Position and center the image to scale nicely on all screens
     background-position:center
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-
+    margin-bottom: 20rem;
+*/
+/*
 }
 .hero-image h1{
   text-align: center;
@@ -53,7 +106,7 @@
 
   color: white;
 
-}
+}*/
 
 .blinking-period {
   font-weight: inherit;
