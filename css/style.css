@@ -10,17 +10,35 @@
 
 }
 
+#background {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover;
+}
+.container h1 {
+    color: white;
+}
+
 
 /* Hero Image*/
 .hero-image {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("../img/team2.png");
+  /*  background-image: linear-gradient(rgba(0, 0, 0.7, 0.2), rgba(0, 1, 0, 0.3)), url("../img/team2.png");
 
     /* Set a specific height */
-    height: 100%;
+    height: 90%;
 
     /* Position and center the image to scale nicely on all screens */
-    background-position:center
+   background-position:center
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -30,12 +48,68 @@
   text-align: center;
   position: relative;
 
-  top: 15rem;
-
+  top: 20rem;
 
   color: white;
 
 }
+
+.blinking-period {
+  font-weight: inherit;
+  font-size: inherit;
+  color: #ffffff;
+  -webkit-animation: 2s blink step-end infinite;
+  -moz-animation: 2s blink step-end infinite;
+  -ms-animation: 2s blink step-end infinite;
+  -o-animation: 2s blink step-end infinite;
+  animation: 2s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
 .navbar{
   overflow: hidden;
   background-color: #333;
@@ -52,11 +126,17 @@
   margin-left: 30px;
   margin-right: 30px;
 }
+.iconpadding{
+  padding-top: 2em;
+
+
+
+}
 
 .titlepadding{
   padding-top: 4em;
 
-  margin-top:10rem;
+  margin-top:5rem;
 
 }
 
@@ -173,8 +253,6 @@ footer{
 
   font-family: 'Questrial', sans-serif;
 
-
-
 }
 p{
   font-family: 'Questrial', sans-serif;
@@ -203,6 +281,17 @@ figure {
   width: 100%;
   height: 100%;
 }
+
+  .post-title {
+    font-size: 1.1rem;
+    color: #000;
+    display: block;
+    line-height: 1.5rem;
+}
+.white-container {
+    background: #fff;
+    padding: 13px;
+}
 /* parallax*/
 #plx{
   background-image: url('../img/officeview_2x.jpg');
@@ -221,6 +310,12 @@ figure {
   padding-top: 100px;
   padding-bottom: 100px;
   letter-spacing: 3px;
+
+}
+.bluewall{
+  background-size: cover;
+  height: 10px;
+  background-color: #5BB88C;
 
 }
 
