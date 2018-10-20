@@ -251,8 +251,8 @@ header .overlay {
 }
 .avatar {
     width: 30%;
-    margin: 5rem;
-    padding:3rem;
+
+    margin-top: 3rem;
     border-radius: 50%;
 
 }
