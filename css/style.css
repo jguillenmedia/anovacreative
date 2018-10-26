@@ -79,7 +79,7 @@ header .overlay {
 
 @media  (max-width: 760px){
   header {
-    background: url("../img/website header.png") black no-repeat center center scroll;
+    background: url("../img/websiteheader.png") black no-repeat center center scroll;
   }
   header video {
     display: none;
