@@ -256,6 +256,16 @@ header .overlay {
     border-radius: 50%;
 
 }
+.workicons {
+
+    margin-top: 3rem;
+    padding: 1.5rem;
+    width: 150px;
+    border-radius: 50%;
+
+
+
+}
 
 .navbar-brand img{
    width: auto;
