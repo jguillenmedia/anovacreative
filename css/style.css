@@ -77,9 +77,9 @@ header .overlay {
   z-index: 1;
 }
 
-@media (max-width: 768px) {
+@media  (max-width: 760px){
   header {
-    background:  "../img/website header.jpg" black no-repeat center center scroll;
+    background: url("../img/website header.png") black no-repeat center center scroll;
   }
   header video {
     display: none;
